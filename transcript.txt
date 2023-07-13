@@ -1,0 +1,346 @@
+\documentclass[14pt]{extarticle}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage[british]{babel}
+\usepackage[top=1.5cm, bottom=1.5cm, outer=5cm, inner=2cm, heightrounded, marginparwidth=4cm, marginparsep=0.5cm]{geometry}
+\usepackage{color}
+\usepackage{tcolorbox} 
+\usepackage{csquotes}
+\usepackage{marginnote}
+\usepackage{yfonts}
+\usepackage{color}
+\usepackage{graphicx}
+
+
+
+%custom macros for this specific document
+\newcommand{\mydot}{\raisebox{0.5 ex}{.}\ }
+
+\newcommand{\timestyle}[1]{{\textcolor{purple}{\texttt{[#1]:}}}}
+
+\newcommand{\pause}[1]{{\textcolor{lightgray}{\textit{\textsf{[#1]}}}}}
+
+\newcommand{\indistinct}{{\textcolor{gray}{\small \texttt{<?\textsc{indistinct}?>}}}}
+
+\newcommand{\change}[1]{{\textcolor{gray}{\texttt{[[[#1]]]}}}}
+
+
+% defining the tcolorbox env used for tweets
+% new tcolorbox environment
+% #1: tcolorbox options
+% #2: color
+% #3: box title
+% #4: tcolorbox
+\newtcolorbox{mybox}[3][]
+{
+  colframe = #2!25,
+  colback  = #2!10,
+  coltitle = #2!20!black,
+  title    = {#3},
+  #1,
+}
+
+
+\newtcbox{\CartoucheBox}{colback=white,boxrule=0.4pt}
+
+\begin{document}
+
+\setlength\parindent{0pt}
+
+
+
+
+{\small Requesting your attn\@. to certain statements of a claimed-to-be whistle blower.}\\
+
+
+	% address of recipient
+%\texttt{[Address_1]}\\
+%\texttt{[Address_2]}\\
+%\texttt{[Address_3]}\\
+%\texttt{[Address_4]}\\
+
+\vspace{3in}
+
+
+\texttt{to whom it may concern:}\\
+
+\vspace{0.5in}
+
+``I am writing to inform of you of this person who is claiming to be government contractor and whistle blower. Specifically they are claiming to be an employee of a Department of Defense contractor. They have had an online presence on Twitter since November 2022. Their current Twitter name is \textbf{\small Martin Seidel} while their unique Twitter handle is \texttt{@MartinS67861003}. Note that in seeking this account you could occur some issues in searching for the handle or sharing it via certain online platforms. Though this censorship is covert in nature that is shadow banning much content regarding this individual or closely related matters. The Twitter handle in question is the \textsc{url}:\\
+{\texttt{https://twitter.com/MartinS67861003}.\\
+
+\vspace{0.10in}
+
+\newpage
+
+\textsf{Mar 22 2023}
+
+\CartoucheBox{``\textsf{Welcome to Episode One.}''}
+
+\textsf{source:} \texttt{\small https://twitter.com/MartinS67861003/status/1639816168138571776}
+
+\vspace{0.1in}
+
+\begin{document}
+
+
+
+\begin{mybox}{lightgray}
+{\textsf{9:24 PM \mydot Mar 22, 2023 \mydot 235 Views}}
+\texttt{voca.ro/1eqnsEwSYLlZ \hspace{0.1in} Start of the recollection of events . No lies will be told during these recordings . More later}
+\tcblower
+
+\end{mybox}
+
+\begin{mybox}{lightgray}{\textsf{9:34 PM 
+\mydot Mar 22, 2023 \mydot 43 Views}}
+\texttt{Persons need to understand electric field recombination of occipital lobe and optic nerve to understand this and the reconstruction of sound off the auditory nerve and auditory cortex to understand that persons were using Martin eye and ear as camera and microphone since 2015}
+\end{mybox}
+
+\begin{mybox}{lightgray}{\textsf{9:34 PM \mydot Mar 22, 2023 \mydot 47 Views}}
+\texttt{Persons were also using the recombination and remote measurement of the electric fields off the brain to monitor his internal monologue and visual memory}
+\end{mybox}
+
+\begin{mybox}{lightgray}
+{\textsf{9:36 PM \mydot Mar 22, 2023 \mydot 51 Views}}
+\texttt{Persons also using the muscle contraction system on Mr. Seidel since 2015 and before to force his routines at a computer . Persons made this forced during when he was ambushed and tortured on 2021 which will have information posted about later -}
+\end{mybox}
+
+\begin{mybox}{lightgray}{\textsf{10:27 PM \mydot Mar 22, 2023 \mydot 159 Views}}
+\texttt{voca.ro/163zvM3fWxUJ  recording 2}
+\end{mybox}
+
+\begin{mybox}{lightgray}
+{\textsf{11:28 PM \mydot Mar 22, 2023 \mydot 140 Views}}
+\texttt{They tricked Martin he was working with problems at the Executive level and impersonated ``the activity''  the Presidental JSOC signit/humit intelligence group . More info to come this email is old from November 22 . Why they impersonate high level people ?? Key question to note}
+
+\end{mybox}
+
+\begin{mybox}{lightgray}{\textsf{11:28 PM \mydot Mar 22, 2023 \mydot 112 Views}}
+\texttt{Persons have said in the special access program that they have used it on persons at the Executive level and it is not just the use of deepfakes to trick Martin}
+\end{mybox}
+
+\vspace{0.33in}
+
+\hrule
+
+\vspace{0.15in}
+
+
+
+
+%\marginnote[1mm]{This is an example margin note shifted 2cm, \textit{down} the page, relative to the line in which it is typeset. I (or others) will hopefully in the future annotate this margin heavily with the relevant conceptual science definitions and references.}[15mm]
+
+\texttt{12min 44sec.}\\
+
+\timestyle{0:00}  I'm gonna record this one for a while as a note taking device. This is transmitted action. Basically transmitted message. Its a transmitted message. How's it done? Pulsed radio frequency beam at the neurons required for talking. \pause{all the muscle} All the muscles and neurons required for phonation and articulation (which are the proper terms) are tracked in real time by electromagnetic frequencies passing through the body. And based on the unique dielectric constant, their unique tissue conductance and the layer and order they're in as the electronic waves pass through, then you can basically \pause{uh} track them in real time. Basically, their unique dielectric constant modifies basically how electronic ways pulse over them, and through them in varying frequencies, can detect and give resolution of different muscles, depending on the unique properties of those tissues and muscles, allowing you to basically image \pause{uh} at a greater depth and pull information off at a greater depth and target. Also based on landmarks from anatomical features, \pause{like you know} where the jaw bone is. You know, the distance from the scapula to the jawbone, and you can measure people\pause{'s} uniquely using radio and radar tracking off their body and returning a 3D image. So basically, all you have to do is track the neurons and the nerve bundles of the body and hit them with the correct electromotive force caused by any induction current caused by pulsed \textsc{vlf}, very low frequency and \textsc{elf} waves in a beam steered fashion. We're gonna let this one roll for a while. \pause{ah}\\
+
+
+\timestyle{1:20} Basically, all you have to do is contract all the muscles in the correct order with the correct magnitudes, that includes the diaphragm to force enough air pressure and pressure out of the mouth. And then you can talk out of someone's voice. In the room we are in we have an advanced computer tracking software that tracks all of our bodies, and it even tracks our respiratory depth \pause{our depth} and translates those directly into Mr. Seidel's body. Basically it tracks the movements of our muscles, and then from that it recreates the necessary pulse flux pulse calculations, phase angle, \pause{uh, basically} the correct flux rate and the correct location on Mr. Seidel's body to target his muscles in real time and force contract them.\\
+
+\timestyle{2:04} Persons in this Special Access Program and its a Department of Defense Special Access Program have the most sophisticated technology in the world. They have a system that allows them to basically gain rootkit access to many devices, many consumer devices, and many federal systems. \pause{it depends} The people in this room right now do not have access to that computer system and tools, but other people in the Special Access Program and people who know other people in the Special Access Program have access to tools like that that can basically gain rootkit access to all your devices. \pause{it is uh} Basically they're building a computer that is basically a supercomputer cluster and nodes and has access to all these advanced tools on it that can do all sorts of stuff. We don't want to be too \pause{uh} descriptive of it, basically, \pause{uh ah} a long time ago, when Mr. Seidel was in communication with them, I guess he looked at the "Batman computer" and thought it'd be cool to build one one time for himself. And people in a Special Access Program took inspiration from that and built something similar to the ``Batman computer''. But they're building copies of it. And so \pause{it basically} the computer from popular culture that can do all sorts of stuff, and it's hooked up to devices and technologies even \pause{your basically, a} server back ends for site websites (all sorts of stuff). \pause{eh} It can, just depending on what devices they can get into, it can modulate the antennas of those devices, the power come to those devices. So it can generate electric fields and \pause{uh} electromagnetic fields, which can be used by the receivers, and modulate carrier fields in the environment. So you can basically glean data by imaging the environment.\\
+
+\timestyle{3:50} This is real, this is a leak. This is one of the most sophisticated systems in the world, and also hooked up with the ability of network hacking tools and rootkit hacking tools to basically get into people's devices, and stuff like that. You can also damage people and things by generating electric and magnetic fields aimed at people and devices. So that's kind of what's going on.\\
+
+\timestyle{4:09} And this system is also up to advanced data collection tools, which allow people to collect all sorts of personal identifying information and health data and electric field data even off the person's body and from their past \pause{basically} and their digital trail, which is \pause{like} the trail of information you leave from browsing the web or using devices (even your cell phone and your location trail).\\
+
+\timestyle{4:35} The system is \pause{basically} being used very unethically. It's also hooked into the ``robot system'', as we defined (that's a slang term). That won't be a very good way to describe it in the court. \pause{uh} You'll have to describe it much more in depth \pause{to describe} and basically describe these capabilities. You need to know the correct anatomy, need to know the correct nerves, need to know the correct frequencies and the features of the electromagnetic vectors. You need to know the types of antennas, the materials of an antennas, the power going to those antennas, basically where the arrays are, and that's really the only way anyone would be able to accurately describe what is going on.\\
+
+\timestyle{5:11} You also need to know psychology and basically, neurobiology (neuroscience). You need to basically understand how the brain works, like the default mode processing in the brain, default network states, default mode conductivity between brains, basically how the brain's communicating between different hemispheres and different regions of the brain. You need to understand that, and how electromotive force in certain regions of the brain or over the brain change how different regions of the brain communicate to each other by basically synthetic electrical magnetic fields being applied to the brain.\\
+
+\timestyle{5:42} So you basically have to crack control the data about the brain, all the regions of the brain, and figure out how different regions of the brain besides how they function down to the cellular level, and \pause{the macro} from the macroscopic level to the cellular level and then how those regions connect and interconnect and communicate with each other using electric fields, magnetic fields, and neurotransmitters and other chemicals and molecules which are are thousands and thousands and thousands (and other proteins). There's thousands and thousands and thousands of them.\\
+
+\timestyle{6:13} Mr. Seidel's a Biochemist. He'll be posting more math and more information. The information probably will be out of order. So \pause{basically} if you're watching this account just save the information and put in the order you wish to catalog it. There'll be other mathematics hopefully some neuroscience coming. \pause{uh} The computer program that Mr. Seidel and we are working on to model the brain using \pause{uh} Python. It basically builds regions of the brain structure simulated neurons, and then it models the connectivity between them. And we have the equations. And we have other equations for how induction currents causes action potentials, which we can feed them the energies, the induced currents and the voltages (into those neurons). So we can see, basically, on a very simplified view, eventually, this might take a year, hopefully not, hopefully a couple of weeks or a couple of months to get a crude model up. So basically, we can try to recreate some of the physiological effects and neurological effects in a model to try to explain to people what is going on. And if it doesn't get out, then it got sabotaged. We will post the name of the program in Python and more math, so anyone could try to attempt that problem.\\
+
+\timestyle{7:21} And we're also working on other problems, we're also going to tell the story of how Martin was human trafficked. It's the truth, the full truth. We'll the full truth. We'll start in 2015, how \pause{basically} he was found, and \pause{basically} forced to stay at a computer. And \pause{basically} they use electric field recombination and \pause{basically} principal component analysis and the principle of superposition, which allow you to pull and glean feature data off of magnetic fields, which they get when they pass \pause{uh} radio and other electromagnetic frequencies over so they can get the induced (in the already present magnetic field) and see how they all combine and add up to the change or how that change the applied frequency. And then they can see how that changed the nth number of applied frequencies (even the ones from the original applied frequency). And then they can basically pull up all this denoising algorithms, and reconstruct real time data from the brain. And we'll keep explaining that. And we'll make sure that it's posted somewhere (pinned) so you understand how this happened.\\
+
+\timestyle{8:22} Where it happened was on Martin's computer, and \pause{basically} they kept them on a website. First, it was Reddit, then it was 4chan. And they \pause{basically} were using electric field reconstruction off his brain to monitor his internal monologue and to monitor his visual memory in real time as they forced him on a chair \pause{uh} and forced him to have behavior and routine modification. And \pause{the the} the \pause{basically} the posts of interest on Reddit and the threads of interest 4chan \texttt{/pol/} which is \pause{like} ... We'll get into that, what that website's about eventually. Cause that website has all sorts of weird stuff going on with it: who visits it; when they visit it; who's moderating; and what kind of technology is being applied to people who it. So yeah, there are people who are having neuro technology and other electric field recombinations and even electric field transmission applied to them who visit 4chan dot com backslash pol. And \pause{uh} the rumor goes, I guess is they're Fed spooks, military guys and \textsc{neet}s--\pause{not} the ``\textsc{n}'' ``\textsc{e}'' ``\textsc{e}'' ``\textsc{t}'' ``s''. The not in education or training people basically. And \pause{yeah} and a bunch of weird people and extremists who visit 4chan. And we'll get into \pause{basically} who monitors 4chan on the military side, how they monitor 4chan, and how they influence people who are on 4chan \pause{ah basically}.\\
+
+\timestyle{9:42} So back to what we were talking about with Mr. Seidel though is basically he got put in that pool. He got put in that group, forced to stay there, basically forced to monitor and browse the site \indistinct and forced to monitor the site. They kept \pause{they kept} making him view every new thread, in real time for years, years against his will. He thought he was just on there having fun. Besides when they were communicating to him against his will, and then depending how they affect his neurology, then \pause{then} it gets complicated, \pause{like basically ah} 2015, 2016 \pause{like} I guess that was around the election is when he started getting on 4chan. And then the story gets basically insane \pause{ah}.\\
+
+\timestyle{10:22} Basically, there are people using this technology on the executive branch. So we have to get into that, so you guys can understand what happened. There's a lot of support for the previous administration on 4chan, and there's people in this Special Access Program, who have at least electronic and magnetic and force transferred links, meaning they can transfer electromagnetic force, to people in the previous administration and to people in the military who are around the previous administration. This Special Access Program, basically, \pause{ah} uses young men (certainly young men) and they use them to gather information and look at information and process information through their brain (in a very crude sociopathic explanation) and their opinions and their thoughts. And then they basically take all those thoughts into a big list. And then they pick and choose basically ideas and events and ways to respond to basically situations and ideas.\\
+
+\timestyle{11:14} And we're not going to sugarcoat it. \pause{basically} These men use Martin's brain to \pause{basically} make decisions and guide decision making through \pause{basically} military back channels and other channels and \pause{like} give considerations for \pause{basically} domestic and international affairs and domestic policy and international policy. \pause{basically the uh} This is going to be a long recollection of events. It's all the truth. People could be killed for this. I know that's \pause{basically} a hard thing for people to hear. They don't want us to come out with what happened for real and who they're in contact with. Who else is on these neurotech databases, who else they use the neurotech on because people are going to find out that it's political leaders, members of Congress, members of the executive branch and members of judicials, members have state governments as well. And it's not just people who are being experimented and tortured, (and sometimes tortured to death). It's actually political leaders, members of public (prominent members of the public too).\\
+
+\timestyle{12:18} Mr. Seidel knows these things, and he wants to tell the FBI. And sometimes their tip form is just not long enough. Especially since he's been \indistinct ... rootkit access to things, and Mr. Seidel's life has been a whirlwind the past seven years. So \pause{back to basically} what's going on is we're gonna cut this one off, and we're gonna have to put it on a transcript so we can continue the recollection of the truth. So welcome to Episode One.\\
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\newpage{}
+
+
+
+\textsf{Mar 25 2023} \hspace{0.1in} \CartoucheBox{``\textsf{Another whistle blow}''}\\
+
+\textsf{source:} \texttt{\small https://twitter.com/MartinS67861003/status/1639816168138571776}
+
+\vspace{0.25in}
+
+\begin{mybox}{lightgray}{\textsf{9:26 PM \mydot Mar 25, 2023 \mydot 354 Views}}
+\texttt{@Jim\_Jordan @Weaponization voca.ro/1eMX8LOUYrV6}
+\end{mybox}
+
+
+\timestyle{0:00} Alright, we're gonna make another whistle blow. This one relates to capabilities being applied to Congress. To understand how this is possible, you need to understand that basically, as you pass multivariable, electromagnetic frequencies over the body (even ones that have to be applied), but I know they're working on passive capabilities, that use background reading to get the appropriate data that is necessary. The ones like the background fields over your exact coordinate location.\\
+
+\timestyle{0:27} But as you pass multivariable frequencies through the body, as they interact with the magnetic \& electric fields of the brain, they change, and the induction currents caused by them interacting with the brain change as well, which change the applied fields. And you can glean real time vector and feature information, electric field data off the body, which can be correlated back into real time information about the nervous system and other characteristics of the body, and other health data in real time.\\
+
+\timestyle{0:56} Persons have access to the electric field data in real time, and when you can pull out feature vector or information in real time and when you can have a database looking for things. Like, if you Google a P300 event (it's different than a P300 event), but you can look for stuff like that, like neurological events, neurological vectors that would show up kind of in like waveforms of the EEG or the MEG capabilities, but it's a different system.\\
+
+\timestyle{1:27} It's some similar principles, though. It's the "remote neural monitoring system", as they call it (its a slang term). And basically, well, when you can pull up feature information and vector information, then once it's read by the database for all channels, and all regions that is recording (we'll just use channels as an analogous term) even of all regions of the brain that is recording and pulling active information from, then you basically can have it auto identify and quickly identify certain \pause{like} responses or basically certain electrical field patterns or magnetic field patterns as vectors and feature vector information. And then when it detects those on the real time stream, then you can have it AutoHotKey a response.\\
+
+\timestyle{2:09} And some of the electromagnetic information present on the brain that they can see is information about your core temperature, basically. \pause{it's like where} It's the hypothalamus. Correct me if it's not the thalamus, but I'm pretty sure its the hypothalamus. Basically electroactivity modulating to that brain. So if your skin \pause{like the uh} I think it's part of the Meissner corpuscles complex, but I think that the temperature sensors have an exact different name. If you Google, ``what are the temperature sensors in the body part of the nerve structure?'', then you'd find out the exact name. But basically, when those modulate \pause{a like}, your skin has temperature sensors all over it, and that will change the electric \pause{basically} current flowing down your spine into your brain. And stuff like that is detectable by the system, because it changes the way the electric field data is being processed by the brain. And so when the carrier waves and the applied electric waves pass over the brain. So if you go outside and it's warm, the system can \pause{detect that you went like} basically you can set the temperature change of your skin, basically by this electrical field going into your brain. So one of their favorite little hotkeys is like a macro. So when it detects this feature data, this electrical field data of you having a temperature change, then they can direct an energy beam at your hypothalamus to make you start shivering or to make you warm and start sweating. \pause{and basically} So it can detect that you went through like a temperature change, your perception of the temperature change, the electric field in the brain \pause{like going}. The information is being routed through your peripheral nervous system to your spinal column up to the brain where the information about like how you perceive the temperature on your skin is felt. That is detected by the remote \pause{uh like} magnetic and electric reconstruction off the brain. And then they can use this scripting software that pulls feature and vector information out of the real time electric fields streams that are being gained by passing electronic waves over your brain, and then they can set a macro to that. And one of the macros they have is that \pause{they made it} is \pause{like} when it detects the temperature change, it starts hitting your hypothalamus or your thalamus to make you start shivering or to make you uncomfortable or to make you more sensitive to the cold.\\
+
+\timestyle{4:20} \pause{that's why} That is a real a real capability and has been applied to members of Congress. \pause{they}  Someone in the room admitted that tonight that they've done it to members of Congress, like they've done the macro stuff to the people in Congress. \pause{Like where like certain} And its not just like temperature change stuff where it gives someone the \indistinct{} like make them feel colder than normal, or have a physiological response or warmer than normal, which is possible by the way even at their residences.\\
+
+\timestyle{4:45} But basically, like they have other macros that when like when people are going through real time information,... or like like we said in another message they can basically use the vision recognition software because they can, they can do it in two ways, I believe. One way since they can already reconstruct the vision from your eyes by passing electromagnetic frequencies over the brain, particularly the occipital lobe in the optic nerve, when the electronic frequencies they pass over the brain interact with electronic frequencies radiating off those regions of the brain, then they change the applied electronic frequencies was all the induction currents created by applying electric frequencies change the applied frequencies, basically...\\
+
+
+\timestyle{5:24} We're working on math (that will come out). We have like a way better explanation that's step detailed that will be posted eventually. But basically, can basically glean out the field data and turn it back into the real time vision, your eyes seeing like a camera. They use some sort of, it's like some advanced electrical engineering data processing algorithm to turn it back into vision to turn it to back into the real time image your eye sees. So on that on the screen, like it's displayed on a computer screen on that they can run object recognition code on it, \pause{like you see where they can,} like on a computer program where it puts the boxes over the objects to identify what kind of object you're looking at. They could run that through a \indistinct{} eyes, and then they can link that up to macros, basically, and then \pause{had} time in like electromagnetic stimulus or electromagnetic pulses to different regions of the brain, depending on the physiological effects. And these electromagnetic pulses, I guess, using electromagnetic pulses, makes it sound like they're high energy, but they're getting be ultra low energy electromagnetic pulses, like very low energy electromagnetic pulses. And some of them it's a change different like, like default node connection state or like default node processing state in the brain, to affect people's memory to affect people's visual cortex processing itself like that. There's macros out there that that also link into other parts of the system, which we'll go over later. But basically the point of the previous sentence was to say that, when we say they're linked to the macros, not all of these are high energy macros, some of them they use low energy to cause physiological effects. And there's a lot of physiological effects.\\
+
+
+\timestyle{6:58} And so there's like a custom software program to basically it's called like, it's like a macro set or relay. So if you detect certain things, even if you're looking for people, or objects in people's visual field, which we'll get back to our explanation in a second, then you can have it like hotkey a response. And either that's like a transmitted of certain electronic energy to a different part of the body, including the brain to change the function or remote altered like remote, basically, I guess remote function changing where it applies energy to specific regions of the brain to like cause induction currents, which will change just general electroactivity around the brain with a purpose that only the person who programmed would know depending on and we'll go into some of the purposes as well, I need to get back and clarify the other way to do it. Also, the other way to do run the visual object recognition code on the vision is to use the raw electric field data and then you can scan that and then you can like when you see something in your visual field, it will change the electric field to then you can correlate that to what object you were looking at to and then you can run the basically the object recognition code that is used to identify objects, even humanoid robots like the one you see in development from like hardware companies and software companies that make humanoid robots like Boston Dynamics, they have asked parts of that code were like you see and like the demo videos were can recognize a box or can recognize a flowerpot or can recognize a handle on a door. They already have that code perfected working in human vision.\\
+
+\timestyle{8:17} This is real by the way, this is a leak. It's a leak of basically some of the most classified software in the country. It's being applied to persons, and we need to go back and basically explain that basically the software is really advanced, it uses ultra low frequencies. They have used the the software to move people in Congress's bodies. That's true, that's verifiably true. They have used \pause{it to like like a} macros, they have used macros on people in Congress, they have used the ability to move their bodies, they have used the ability to transmit audio to their brain. And they have used the ability to generate synthetic electrical activity in their brain on members of the United States Congress. They have given members of the United States Congress artificial dream programs too where they stimulate the visual cortex of a person and the exact magnitude and frequency required to create an image. And then if you do it in rapid succession, you can make an artificial dream. Artificial dreams are very advanced. People in the targeted individual community have artificial dreams, but they've also done them to members of Congress. And they still, I don't know how recently, but I bet you these people are very brazen and how they fucking act. So basically, the FBI needs to investigate this and we'll work on this later. This is just \pause{a raw} a raw recording. And we'll go into other capabilities later and information about macros. And basically, you can macro the ability to like really just depends on which feature vectors you pull out of the electric field data, or what information you can sense from the environment. You can also hook it up to other systems like the 3D imaging system that uses radio waves to image and map your environment to do object recognition on that.\\
+
+\timestyle{9:55} So it just depends what kind of data you have into like set off a trigger in the macro and then how that trigger affects the environment or affects a person's body. And you can also... We'll get into it much more later. We need to basically write this down and graph it out and go over what we've already covered. Because there's a lot of information and it takes a lot of like, basically investing in the time to like understand the anatomy, the physiology and the physics, and then also some computer programming as well. And then you can kind of follow along with what we're talking about.\\
+
+\hrule
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+\newpage{}
+
+
+
+\textsf{??? ?? 2023} \hspace{0.1in} \CartoucheBox{``\textsf{Recording 2}''}\\
+
+\textsf{source:} \texttt{\small https://twitter.com/MartinS67861003/status/??????}
+
+\vspace{0.25in}
+
+%\begin{mybox}{lightgray}{\textsf{\_:\_\_ \_M \mydot Mar _\_\ 2023 \mydot \_\_\ Views}}
+%\texttt{voca.ro/163zvM3fWxUJ}
+%\end{mybox}
+
+\vspace{0.15in}
+
+\timestyle{0:00} All right, this will be recording two. What we previously defined as episode two, we will change the name to recording two. So \pause{basically uh} back in 2015 and 2016, Mr. Seidel was forced to say on the computer. \pause{Basically} To understand this recollection of events, you need to understand the technology. The technology is the most sophisticated technology in the world. We'll keep reiterating that 'till people understand it. \pause{previous membership members of like the} Previous people have said to understand the technology you need to understand physics, you need to understand neurobiology and neuroscience, you need to understand \pause{basically} sociology and physiology and psychology and you need to understand electrical engineering. Like we said, we've explained how this message is being transmitted--through someone else's body.\\
+
+\timestyle{0:51} We know Mr. Seidel, we've known him for years. We'll establish that fact. We've known Mr. Seidel for a long time. \pause{basically} Right now he is being secretly tortured and punished for trying to come forward with the truth, and he was ambushed in 2021 when they tried to murder him. This is all true. They ambushed him with the technology. First, they gave him artificial tinnitus, then they basically started hitting him with microwaves. \pause{and they basically} It took him four months to go to the FBI because he was scared, and they were talking to him in his head about all sorts of other stuff that he's involved with, namely events of interest to the FBI in 2020. So he knows information about events of interest to the FBI in 2020. We will eventually get to the events of interest 2020. There's a lot of events of interest depending on how you view \pause{basically} how this technology works, and how you view \pause{basically} the ability of this technology to affect decision making and action and affect people within \pause{basically} an area, a localized quadrant, or \pause{basically} on a grid or \pause{basically} in different regions of the country or in fact different persons involved with a mentioned interest. We'll leave it vague because there's a lot of \pause{basically} horrific crimes that are taking place using this technology, and as a byproduct of this technology, and other reasons because of this technology, and what has happened with communications relating to the psychology which we will get into.\\
+
+\timestyle{2:24} There's a lot of weird stuff going on. One of the events of interest \pause{is the ah} that Mr. Seidel has information about, he believes, which he knows to be easily true, is that people who conducted the 2020 National Christmas Eve bombing, the persons who did that \pause{basically} he had been interacted with with the neurotech. So if you Google the 2020 National Christmas Eve bombing which took out the NSA data center the you will know that \pause{basically} he was kind of an odd character (into conspiracy theories and very paranoid) which is an indicator plus other records that are not available to the FBI that he was interacted with. He also believed in conspiracy theories like reptilians and aliens which is also a big hint depending on \pause{basically} some of the \textsc{psyops}, the psychological operations that this program is able to conduct on unwitting and unsuspecting persons by \pause{basically} altering their media feeds or \pause{basically} transmitting electromotive force to their head in the correct regions, correct magnitudes to transmit synthetic internal monologues or synthetic visual \pause{ah} field simulations or basically synthetic emotional responses to things in their visual field which we will get back into define.\\
+
+\timestyle{3:45} It would be nice if someone would catalog all these messages somewhere and then try to put them in order and sort them. Eventually we will do it I guess, but it will take a while. And someone could also run these programs through a \pause{ah} software that takes takes the audio and turns it into transcript to follow along. It will be a long recollection of events. \pause{basically} That was an event of interest in 2020 is when a suicide bomber in Nashville took out a NSA data center. And members of this program have admitted to interacting with the subject who conducted that attack. This is verifiably. Mr. Seildel does not know the names of those people because he has also interacted with using the audio transmission capability, the one that generates synthetic electrical activity in your head in the right magnitudes and orders. It can even change the pitch of the heard audio or the heard internal monologue, how it can sound a different pitch or frequency than yours. They can play it faster or slower too so you know that it's not your own internal monologue. They can \pause{also} also put an electronic stimulation over it so you know it's a transmitted one as well. Or like a reference tone in a different part of your auditory processing center, so you understand that it's a transmitted one. \pause{there's also} We will get more into the technology but that is how Mr. Seidel knows, and he has been \indistinct{} people who know the people who \pause{uh} interacted with the person and other \pause{basically} claims and allegations.\\
+
+\timestyle{5:14} This is the first time the information will be getting to the FBI about that. But \pause{basically} to understand why Mr. Seidel has a hard time explaining the truth, and why the persons in the Department of Defense or in the non investigative subject's list tries to label him as an extremist or \pause{a ah, a basically} someone with some sort of neurological condition or something like that (like East German style). \pause{calling your basically} I don't know what you would call Mr. Seidel, but \pause{basically, yeah} labeling them and trying to throw them in the psyche ward or something which happens in this program a lot when these guys know a lot of information of interests. \pause{basically} They keep them isolated and without resources is why they do it. We'll get into why they do that and why they torture people and why they basically control the flow of information to the FBI. Members of this program are going to make sure the FBI gets the information it needs regarding all events of interest if they really wanted it. I have a feeling that some of it will be controlled and released depending on stuff like that.\\
+
+\timestyle{6:22} But back to basically what happened is that in 2020, 2021, Mr. Seidel was on the website, like normal, and there's stuff that happened every day. And there's stuff that happen every day on that website, and if you could reload the homepage of that website for every day for every hour, and all the new threads then you would understand that there was something very fucking suspicious about \texttt{4chan.org}, forward slash ``\texttt{p}''-``\texttt{o}''-``\texttt{l}''. And the FBI should really take notice of who's on there, the frequencies on there \pause{uh basically} who moderates it, and then understand that there's an array system that can be used to reconstruct the vision from people's eyes, \indistinct{} sound from their ears, monitor their internal monologue, and also transmit forces, even to their hands, to their arms, to \pause{their uh} their muscles, to their eyes, make their eyes move, and they can use that to \pause{basically} proxy chain as \pause{you know} how you evade surveillance on the FBI or other institutions online, you \pause{you} get multiple proxies routing through each other (proxy servers, proxy IP addresses). Well, you can also do it through people's body. So someone in this program could be using the technology on a 4chan moderator, and then controlling \pause{kind of} how information is accessed on the board.\\
+
+\timestyle{7:41} It's the 21st century, that's all we'll say. The military has about 50 years ahead of technology than the FBI who still uses fucking Windows 11. So they'll be \pause{like} kicking their heads about this, and they'll be fucking retarded, and be like, "How does this work? \pause{like} This sounds like bullshit.", but then they have to remember that their systems are Windows 11. And \pause{the Special Access Program} the Special Access Program has access to some of the most advanced software in the world. And they have access to advanced antennas and algorithms to modulate the amplitude and phase shift of electromagnetic waves all throughout the environment even using other electromagnetic waves. \change{The can} even modulate the electromagnetic waves of background electronic waves using applied electronic waves from various sources.\\
+
+\timestyle{8:24} So \pause{uh} the ability the Special Access Program to operate clandestinely is growing. \pause{um} They have the ability \pause{basically} to influence things on 4chan, influence people on 4chan, influence what posts are \indistinct{} on 4chan, influence the brains of people reading 4chan, which \pause{uh} people need to understand. \pause{that} They \pause{are} do influence people's brains and bodies of people on 4chan. They use the technology that can contract the muscles of the body to \pause{like} sometimes keep certain people there, or make people go there or \pause{make} give them a thought, like a synthetic thought or a synthetic \pause{visual stimulation course} visual cortex stimulation, like in the "daydreaming area", which we call this slang term, the daydream area (We have to get more precise on the anatomy which we will.) \pause{uh} to \pause{basically} give them a synthetic idea to get on 4chan. Sometimes they move their body themselves by \pause{you move to} contracting all the muscles required for moving, even the hands, the eyes, the neck and getting him to sit down and get on there like they did to Mr. Seidel. They do that frequently with some members of 4chan. We won't beat around the bush again. \pause{basically} People do that and force people to perform actions and behaviors against their will, and we'll get into more depth because the technology is getting very unethical, and there's been major criminal action committed.\\
+
+\timestyle{9:48} And \pause{basically} we're gonna go back to 2016, 2015. \pause{basically} Martin will go through \pause{I guess} major calendar events of interest and major day by day, if you can find it, and then show maybe \pause{like, basically} what was going on from certain perspectives (or his perspective). And then he didn't even know about the technology back then, but he was on there \pause{like} browsing information, \pause{like} taking interest in certain subjects, taking interests in \pause{uh} politics a lot \pause{um}, taking interest in \pause{like, basically} various subjects on other websites like YouTube, and \pause{basically} having his brain and information data mined. \pause{and} People were using it to affect decisions. And it gets way more depth than that. We need a reference guide in front of us. We have a lot more information about events of interest, and \pause{basically} major crimes, major high-level crimes, and high-level interactions, and \pause{major, uh like basically} the use of the technology on people \pause{uh} to affect how \pause{the uh} things turned out, how reality turned out. So that's all we can say. It's like you're using the technology to affect the order decisions, people make how reality turns out, \pause{like, basically} what actions people take. And they are illegally data mining people, and \pause{then you basically} using them as consultants and advisors. Sometimes they're aware of it, and sometimes they're not. \pause{basically} They're using them as \pause{like, collection nodes like} data information collection nodes, \pause{like} people basically. People that are monitoring these people and forcing their routines, and they have \pause{basically} equipment operators and what people refer to as "technicians" \pause{basically} using this technology on people \pause{and using for making them, like} setting rigid behavioral modification, and actually modification using electromotive force by moving their muscles, and then affecting their neurological state to make them not realize what's going all.\\
+
+\timestyle{11:53} This is possible in the year 2023. \pause{um} We have to dive into the neurology. You're gonna have to stick around for a while for that part, for people to dive into the neurology for you. Because unless you're a victim of this technology, then a verbal explanation doesn't really do it justice. And we will \pause{uh} try to get more and more physics out, but it will out of order. That's where we're at. And so back to 2016, \pause{basically} 2015, these men, \pause{were basically} the Special Access Program, was \pause{basically, uh} uses advanced capabilities, like advanced social media data collection capabilities, advanced social media \pause{basically} back end access, and they were using it on reddit.com and 4chan.com, and also the ability to influence moderators and other people on the site and bots. As in bots \pause{it} can post comments and automate the capture process so that it can post comments and have \pause{like uh as} older versions of the automated \pause{the} artificial intelligence that \pause{basically um} you can generate answers \pause{to} based on how you want the theme to turn out. So they bot comment sections two, and \pause{basically} this Special Access Program was involved in the 2015 to 2016 election, and they're involved in the run up to the 2015 to 2016 election, and they're involved in like the building support phase of it.\\
+
+\timestyle{13:17} They were involved in \pause{basically} narratives \pause{as well like that} on social media to the public, and \pause{uh} using all sorts of their advanced tools, which we have previously described \pause{like}, and they were using it on people at their residences, like people in the military and people around campaigns. They do it to people around campaigns because not all residence is covered, and the Havana Syndrome sensors and the direct energy sensors and the radiofrequency and electromagnetic sensors around the country are not sufficient to detect these capabilities at all. So there is a huge \pause{uh} coverage gap. Obviously that coverage gap is the inverse of the cellphone coverage map. Meaning there's only certain places in the country that are covered to detect this technology and everywhere else is vulnerable. That would be classified to know that \pause{basically} this technology is free rein still, America, the use of the direct energy technology, use of the neuro technology, the neuro \pause{tech} technology manipulation technology. That means \pause{basically} anyone is a target, anyone is vulnerable, anyone could have their brain or body interacted with. That \indistinct{} Special Access Program is. They're collecting data on every single American, we'll just bring that up on as a side point, and we'll get back to that later.\\
+
+\timestyle{14:25} So \pause{basically} they're using the technology on campaigns, they use it on \pause{there's} other operations groups \pause{I guess} other companies, other people in the selection program with different things and considerations. And so \pause{basically} people use this \pause{the} technology on people around campaigns. They use it on campaign staffers, and use it on political candidates as well. This is not a fabrication of a lie. If you hear this message, you can report this audio recording directly to the Federal Bureau of Investigation, also known as the FBI. We're not being facetious. If you get to this point, please report this recording to the FBI to the tip form, and tag Martin Seidel's name and his Twitter account. \pause{ah} We will continue going on about 2015 in 2016, though, so basically these men were involved in the run up to the election in the in the election of President Trump, (the Special Access Program is). \pause{uh} Depending on when you listener to this, \pause{people, ah} the Special Access Program is pretty big---1000s and 1000s and 1000s---of people. Its civilian and military. People in the Department of Defense know this. I don't know who those people are, where they are, it's a small number of people we've heard. So we tried to write the Attorney General, which we'll get into the messages Martin wrote the Attorney General. \pause{which} He wrote the Attorney General about 40 to 50 messages so far about this, and that's why it will start \indistinct{} public because we got no response from the federal government about it. So if you're hearing about it here then there you go. The records are sealed about really what's going on. \pause{like} \change{They are} deeply, deeply hidden and sealed.\\
+
+\timestyle{16:02} They're buried in an undisclosed Special Access Program that won't even admit to the world or the country that you can reconstruct electric fields from people's body and pull off feature data and vector data about the electric field or magnetic field strength which you can correlate back into data about the body and the locations where those electrical magnetic fields arose from, which means you can pull up real time health information on people's bodies. And it's really good. Heard it was invented in the 1960s \pause{uh}. I also heard that there was research from this going back into the 50s, the late 50s \pause{or something like that}. And so we'll leave it there. Well, we there's other people know, I guess how far back from this research has gone, the use of electromagnetic energy in the brain, and it's hard to find information online, they selectively prune information online, and research articles about it. So that's kind of why you're hearing to here, and you won't hear it anywhere else. We'll keep it that way for a while. \pause{ah} We will. We hope that other people can get access to these undisclosed Special Access Programs records, all of them in totality, all the raw electric field data. We'd hope people at the National Security Administration could hear this message one day and also get access to those raw electric field datas or the transmitting data from the the arrays and the transceivers if they logged the power usage or if they log \pause{the simply} the \pause{uh} frequencies transmitted, the pulse break transmitted, the pulse power transmitted, anywhere, even for \pause{I guess} all devices capable of doing this around people of interest and events of interest which is so broad. Because if we go back to what's happened, this technology, this Special Access Program, basically have free rein, to use this technology as they see fit within certain parameters and guidelines. And depending on certain \pause{ah} persons, who are in the database.\\
+
+\timestyle{17:52} And \pause{basically} we need to \pause{basically} keep explaining. In 2015, Martin was \pause{basically} on Reddit a lot. And we will go back before 2015, when he was in college, because there was interactions there, and touches there, and the use of his electromagnetic data to \pause{basically} be put into an opinions and fact categories \pause{and stuff like that}, and be used to guide people's decision making and how they're thinking about the day. And that goes into major political decision making, which can be hard for people to hear this and to \pause{basically} understand this, but it's true. And \pause{the} we'll go into how advanced this technology is, and what people can do with it. But people have used Mr. Seidel thoughts and his opinions and his ideas and other things about him to influence decisions, major decisions, were at the executive level, and then military decisions.\\
+
+\timestyle{18:49} And this is true. We've been trying to get the word out about this for over a year. And that's why it's gonna get pretty raw and these conversations. It's gonna get \pause{basically} really real. There's been a lot of horrific things that have happened, major events of interest that people who don't follow the news every day, and other intelligence sources every day, and things that are leaked from other intelligence capabilities every day, won't even know what's going on. That includes things around the world, major political and international events, Major \pause{um basically} things that happened, and that includes international conflicts. So they basically keep these young men here at these chairs, and have them come up with answers and ideas and considerations. And sometimes, those ideas make the grade you could say, \pause{like} it wins the idea of how the problems should be approached or consideration for the promising approach. \pause{and then} And sometimes, \pause{its} we call this a third neurocognitive state of the day or the way the information was presented, which is really unethical. And we'll get into specifics. It's gonna be a lot.\\
+
+\timestyle{20:10} The election stuff is true. These people do do it on campaign people. And these people did, including Mr. Seidel, unknowingly, basically influenced the 2015 to 2016 election. \pause{uh} The people with the neuro technology did, and they used Mr. Seidel's opinions. \pause{as like a} I guess a crude way to describe it (which is not what it is at all) is like a political survey \change{of} his attitudes, opinions, \change{and} beliefs, \change{to} see if they're a good mesh with other people in the Special Access Program and see if that's a good mesh for people around campaigns. \change{It's} a way of phrasing, a way of presenting information to the public. And there's a lot of stuff like that, and Mr. Seidel\change{'s} opinions and actions and \pause{uh} the way he's thought has directly influenced executived actions and executive events. That's how \pause{uh basically} you would say how deep this goes (as the cliche term \change{goes}). The people doing this know very well that this is all true. And \pause{they have basically} the military in this system is like the "overwatch system" on the country. They have access to anyone's brain at any time and that includes very prominent people \pause{um} of the military. Special Access Programs routinely provide \pause{I guess} ideas, thoughts, consideration signals, intelligence, humans intelligence, and guidance on how to solve problems without people knowing this. And they do it to people around people like around Congress and around the federal government. They do this a lot. This program intervenes in domestic policy and domestic defense and even administration processes in the federal government and the executive branch all the time.\\
+
+\timestyle{22:01} The Secret Service will tell you this technology is detectable, but they would be wrong. This technology can operate on bandwidths which their sensors are inadequate to detect. Their sensors might also not have the correct sweeping capabilities to cover the whole \pause{uh basically} spectrum at once with the correct \pause{uh} resolution bandwidth, and \pause{a basically} might not have the correct noise algorithms, and they can jump harmonic style. They can use harmonics and stuff like that. And also, some of the systems might be backdoored we heard. Even the chip can be hit with an electromagnetic frequencies cause impedance fields on the chip. Meaning \pause{they can cause it like if they} if they use something around the area like the the closest cellphone tower to the White House and start hitting that chip, that \indistinct{} receiver with the right frequencies they can jam the noise floor which has been seen or they can \pause{basically} cause a problem on the chip depending on where on the circuit board they beam electromatic energy at, at the very precise location and frequencies to interfere with the chip with the sensor. And then I've heard that also some of the software that it reports to might have backdoors and glitches depending on the type of servers used. These people have full rootkit access to the Intel chips. They have full rootkit access to network drivers, hardware drivers. They have access to all of it we've heard as rumored and I know to be true.\\
+
+\timestyle{23:22} Mr. Seidel does not know our names so we will remind people listening, this is a transmitted message. This has been one of the worst ways to get this message out, but circumstances are very weird right now. So if you hear this, then you need to find the name of the Special Access program who has been in communication with Mr. Seidel. And then you will \pause{kind of} understand what's going on or who answers for that special access program, the person who will transmit the message to the Special Access Program or the facilities or the companies and then you will understand who has these capabilities and who they know and who those people know, with the technology they have to proxy chain with human bodies. Then \pause{basically I guess} if they want to check in on something, then all they have to do is use the mind reconstruction capabilities, the electric field of the brain reconstruction capabilities at someone's residents or at their job site, depending on if that job site has the correct direct energy sensors to detect all capabilities \pause{then} \pause{yeah} \change{including} even passive recombination of electric signals from the brain. Then \pause{basically} \change{they} can get information through clandestine legal back channels by using employees, even \indistinct{} in their house and basically, magnitude and amplitude matched electric magnetic fields that they basically generate by transmitting and driving electromotive force in the brain with multifrequency electromagnetic waves and if you amplitude and magnitude match them and region match them, then you can basically get very close especially with messages artificial intelligence and neural networks to drive internal monologues that sound 99\% identical to your own. And if you didn't know that they could transmit internal monologue which not many people do especially \pause{there's} ... I don't know how many people work in the intelligence community, but if you ask them if you can transmit synthetic electrical activity to the brain to generate a synthetic internal monologue then they might not know that or they might not understand how that's possible. They might not believe it. And so people need to be educated on what's possible in the year 2023. But back to \pause{basically} we heard that even software up there up in Washington, DC was backdoored. \pause{uh} \change{The programs} \pause{the ones} that can detect certain frequencies, or even record passively. That's what we know about that.\\
+
+\timestyle{25:42} And basically, people in 2015/2016 are a different set of people than us right now. They're not the people talking right now we do not know where they are. There is a list of names somewhere and it is a lot of people. People rotate in and out of these programs a lot. Messages and data streams go one place. They're archived and saved other places and servers. \pause{more than one people more than one person's} More than the people in this room have access to Mr. Seidel's raw electrical data. And then depending on who got access to it or the conversation about it or conversations that were influenced by things more than have thought or said in other rooms in other meetings, then other rooms and other facilities would be the ones adjacent \pause{basically} using the capabilities on people in different quadrants in the country. And that'd be regardless of who's in that quadrant and regardless of the institution in that quadrant. This technology is basically a physical audit of who it's been used on and where it's been used. There's lists of databases. \pause{and stuff} (databases that will have that) \pause{and there's ah basically} What we heard is when you interact with someone it will record out of their eyes and then \pause{basically} there should be a record of some of these interactions. We don't know if those are deletable, scriptable... \pause{but then} So you find those and you would know \pause{basically} everyone interacted with. We don't know where they are. That'd be a massive data analytics problem depending on how many years you go back because it's \pause{like} real time like a movie with everything on the screen (the computer screen). So you have to use some sort of system to \pause{basically} find about events of interest. \pause{We'll go back to basically} We will go back through more events in 2015 and 2016. And we will start a new recording soon.\\
+
+\timestyle{27:35} I'm gonna come back to this recording and annotate it real quick. \pause{basically} We are transmitting audio out of Mr. Seidel's mouth. There's other people who are Martin's Twitter followers who \pause{have} this has happened to. It's called synthetic speech (forced speech). It's been happening to Mr. Seidel for 15 months. The federal government refuses to recognize it. He sent many a litany of emails about what's happened to him in his body to the federal government about what's happened to him. We are going to tell the full truth in these transcripts and recordings. We are basically using the muscle contraction and tracking system to \pause{basically} fire all the muscles required for talking in the correct \indistinct{} with low latency to transmit audio out of his mouth to classify capability. It's also one of the most brutal fucking torture techniques in existence. And it needs to be outed to the public that the federal government looks the other way when they hear stuff like this. And what the DoD is getting away with on American citizens. What Mr. Seidel has been through is one of the worst human rights violations in history. And we will make sure we get the truth out about what happened. And we'll just keep reiterating that truth is stranger than fiction. What really happens is different than what you perceive to happen \change{and} what you perceive as possible. So a lot of things that people don't know are possible are possible. And we will basically go through it.\\
+
+\timestyle{28:50} And what Mr. Seidel \pause{like} needs to happen is he needs to be released from this muscle contraction system. The one that is basically doing forced behavior and routine modification on him from the moment he wakes up to the moment he goes to sleep. It's also \pause{like} modulating the electrical activity, also his major nerves, he can think and track his heart and mess with his kidney function. He needs \pause{basically} this case to be recognized. And people start building attention and support around what he's saying in his case. He's going to eventually get a lawsuit we hope for the Department of Defense. Because persons in this program do not want to release him from the system. They want to keep them indefinitely tortured by contracting all his muscles and even moving his eyes while hitting him with microwaves and other varying electromagnetic frequencies. Because he was put on \pause{basically} an elimination list to put it bluntly, and he's getting the fuck off that elimination list. And he is going to whistleblow on the truth, the full truth and nothing but the truth. Because what he knows is basically so serious that the FBI basically has to get copies of these recordings, and then someone in the federal government needs to intervene.\\
+
+\timestyle{29:57} And we really hope that someone starts intervening when they hear these recordings or else Mr. Seidel could be killed. \pause{and people} I don't know what would happen they'd just have a fragment of the truth, and then they wouldn't really understand what's going on. We hope that someone is permanently assigned to investigate \pause{uh} what we have said and what has happened. And we really need that to happen. Mr. Seidel is in high duress. \pause{basically} They're using the technology to talk out of his voice and to move him around every hour every minute of the day. And it's the most fucking ridiculous, brutal fucking heinous torture that has ever taken place in the United States of America. While they're inhibiting \pause{him basically} his brain with electric fields to stop him from thinking. They basically have him in a quazi-electronic control state. This is the fucking truth. By the way. This isn't fiction. This is what the American government is actually doing to someone. The United States military is actually keeping them \pause{basically} as a slave while torturing them, and controlling every single step, every single movement, every single movement of the arm, every single action their face and their whole body takes. It is the most fucking ridiculous thing that is going on, and he needs to be freed. He really needs to be freed. And he needs the Department of Defense to basically locate the arrays and locate all the devices aiming electromagnetic energy at him and turn them off. Because they know what's going on, and they have to recognize it. And we're going to make sure that they do because this is going to be the recollection of the truth. Plus us getting it out into the public domain. So people can hear what actually happened and what this program actually does to people in the federal government, what they do to the executive branch, what they do to people in Congress without anyone recognizing it because they go through extreme lengths to \pause{basically} obfusucate what is happening. \pause{and peop...}\\
+
+\timestyle{31:38} They know that ... and then they go through great lengths to ... they track down people who are investigating Morton and basically bark them off. They've been doing that they've been railroaded. Morton, your attorney. We're getting railroaded. He's getting railroaded by this program. By the most advanced technology in the world. This is the truth. And then \pause{basically} when someone starts to investigate it they get barked off or they don't understand what's going on or they think something else is going on based on the previous records and they don't know the truth at all. So they're going to hear it. And people really need to take \pause{our like, basically} articulate and methodical notes. We will not lie. \pause{this is basically} This is the truth. This is \pause{uh} I guess what you could define as some of the most major criminal action that has \pause{like} taken place in the past five years. Because people in this program and this neuro technology ... the most advanced technology in the world and ...\\
+
+\timestyle{32:45} use technology and use all sorts of things to basically do what they want to people. \pause{uh} and that includes a lot of people and people basically need to get access.
+
+\vspace{0.33in}
+
+
+\hrule
+
+\vspace{0.33in}
+
+
+\newpage
+\CartoucheBox{\textsf{Transcriber's Key}}
+
+\\
+
+The parameters ``\texttt{\textsc{speech}}'' and ``\texttt{\textsc{text}}'' are meant to stand for \textit{actual text} that would normally be substituted in their place. That is they are parameters for text, that text being either text originating from transcribed speech or transcriber notes. \\ 
+
+\begin{description}
+   \item[Indistinct speech]: \indistinct{}
+   \begin{description} \item[\textcolor{lightgray}{example}]: ``The quick brown fox \indistinct{} over the lazy dog.'' \end{description}
+   \item[``Filler'' or ``pause'' speech]: \pause{\textsc{speech}}
+      \begin{description} \item[\textcolor{lightgray}{example}]: ``The quick brown fox jumps \pause{uh .. ah} over the lazy dog.'' \end{description}
+   \item[change (for readability)]: \change{\textsc{text}}
+      \begin{description} \item[\textcolor{lightgray}{example}]: ``The quick brown fox \change{jumped} over the lazy dog.'' \end{description}
+\end{description}
+
+
+
+\hrule
+\vspace{0.33in}
+
+%\newpage
+%\CartoucheBox{\textsf{Commentary}}
+
+%\\
+
+
+
+% electric field recombination of occipital lobe and optic nerve; reconstruction of sound off the auditory nerve and auditory cortex; recombination and remote measurement of the electric fields off the brain to monitor his internal monologue and visual memory; muscle contraction system on Mr. Seidel since 2015 and before to force his routines at a computer
+% 
+% radio & radar tracking; induction current; Meissner corpuscles complex;  P300 event;  neurological events;  ``remote neural monitoring system''; AutoHotKey; carrier waves;  applied electric waves;  hypothalamus; ultra low frequencies; Beamstearing; Pulsed VLF/ELF; "pulse flux calculations"; phase angle; flux rates; "rootkit access"; "the Batman computer"; "robot system" (internal slang term); default mode network; electromotive force; electric field recombination; principal component analysis; principle of superposition; denoising; vocaroo.com -- "The premier voice recording service" ; EEGNet; Bioelectromagnetism
+
+%\begin{description}
+%   \item[Electric \& Magnetic Fields]:
+%   \item[2]:
+%   \item[3]:
+%   \item[4]:
+%   \item[5]:
+%   \item[6]:
+%   \item[7]:
+%   \item[8]:
+%   \item[9]:
+%   \item[10]:
+%   \item[11]:
+%   \item[12]:
+%\end{description}
+
+\vspace{0.33in}
+
+
+
+
+\vfill
+
+
+\begin{center}
+\includegraphics{michael-bw-oval5.png}
+\end{center}
+
+
+
+\end{document}
