@@ -1,0 +1,56 @@
+
+Does The Brain Transmit Like A Radio
+moving charge creates an EM wave
+
+. As the electrical field moves , virtual photons are radiating magnetic energy into free space. As per Maxwell's equations, a changing magnetic field will induce a changing electrical field resulting in a free standing EM wave. This is a good applet that shows how a moving charge produces electromagnetic radiation.
+                         
+
+   So, what is the connection with neurons? 
+
+   
+  . The neuron has a long strand
+called an axon, along this axon propagates an electrical charge. With a resting potential of -70mV an action potential moves along the axon, in a millisecond, elevating it to a voltage of +30mV which drops off over a few milliseconds. This makes an action potential a form of alternating current with an almost triangular waveform. As such, this produces a very weak form of modulated electromagnetic radiation or radio source.
+
+it means that a neuron is a type of transducer.
+
+  So, whenever you have a thought, feeling, speak or our heart
+beats, tiny little radio emissions are being made by the brain that
+emanate into free space. 
+
+The real questions are, given modern
+technology can these signals be detected and does a method exist
+of associating them with particular functions? 
+
+That is, whilst signals in this power range may be detectable, is there something unique about the signals that can be used to differentiate between different roles?
+
+
+Let's deal with first problem, detection. I tracked down an example of satellite sensitvity to radio frequencies that should act as a baseline. The following data is from NASA's Jet Propulsion Lab:
+The sensitivity of our deep-space tracking antennas located around the world is truly amazing. The antennas must capture Voyager information from a signal so weak that the power striking the antenna is only 10 exponent -16 watts (1 part in 10 quadrillion). A modern-day electronic digital watch operates at a power level 20 billion times greater than this feeble level.
+So, does the brain emit radio waves at a power level greater than 0.0000000000000001 Watts after several hundred miles?
+To answer this we must turn to this scientific paper. From this paper, we can observe the charge per square centimeter which is around 22-29 microamperes. We can perform some rough math on these figures that will reveal the answer to our question. The equations are rough and leave out a lot of additional factors, that said, the final figures will not be far from the truth and will probably under-estimate the capabilities of current classified technology.
+So, using the formula Watts = Voltage x Amperage, we get the following peak power:
+0.003 V x 0.0000029 A = 0.0000000087 Watts/cm2
+So, at source, the weak radio emission of a cubic centimeter of brain matter is well within the detectable limits of the satellite. We now need to project that into space and determine the signal strength at orbital distances. To do this, we need to apply the inverse square law to the emission and the formula is provided in figure 2. So, the formula would be (disregarding gain):
+(0.000087 Watts/m2) / (4PI x (500000m^2)) = 0.000087 / 3141592653589.7932384626433832795 = 2.7692960097989788423785774826817e-17 Watts/m2
+This is fine, its somewhat larger than our baseline, but nothing that cannot be accounted for. Firstly, we need to identify the frequency range. As noted before, due to Maxwell's equations the motion of the action potential results in a changing electrical field. In turn, this results in a changing magnetic field and thus a free space radio wave.
+Typical frequencies for an action potential are in the range of 0-500Hz which will result in free space waves in this range, known as the SLF and ELF Band. This somewhat matches up with experimental evidence that shows humans do broadcast signals on the ELF band. This scientific paper and others show that SLF/ELF reception gear and antennas are of a practical form factor to be placed upon a satellite. An array of such satellites would use the principle of aperture synthesis to create a type of space-born Very Large Array.
+Given that the Ohio State's radio telescope had a sensitivity, in 1977, of 2 ×10^-22 W m-2 per channel and the VLA is described as being 100 times as sensitive, any signals we are producing could be heard loud-and-clear by a space-borne array. This arrangement would provide for a very high resolution of brain activity.
+What's more, the development time line for this technology places the capability to detect brainwaves as far back as the early 1970's. Given an average lifespan for a satellite as 5 years, with an initial deployment during 1970, the satellite technology would be in its 8th generation today.
+So, we can detect the signals but now it must be processed.
+
+There is a significant difference between detecting a signal, or signal range, and being able to process that information and make sense of it. To do this, we need to find unique patterns in a signal that would allow us to isolate individuals and isolate neural activity we can categorize.
+The three main characteristics of a wave are its amplitude, frequency and phase. To be able to detect a single person, in a crowd for example, we need to find something unique about the waves the are emanating. This allows us to eliminate the noise and only have information regarding a single person. There are a number of ways this can be achieved. In a satellite
+  
+noise and only have information regarding a single person. There are a number of ways this can be achieved. In a satellite
+  array, examining the timing of signals received across the array, on a given frequency range, will provide you with both the location (in 3D) and the coding of the neuron structure. 
+
+Explained - the signals from one person will reach satalite A at a diffent time then satalite B . The signals from a second person will reach satalite A at a diffent time than satalite B and also be diffent from the first person . As long as the atomic clock on the recivier is at a very low decimal point of accuracy. 
+Thus even signals from diffent points on one persons head will be recivied at different times at Satalite A and Satalite B . Meaning one could see the difference and tell the spatial temporal difference in signals on the skull by the time they reach the reciver and then identify them based location as how long it took for the reciver A vs B vs C(etc depending on how many recivers and satellites ) you had - sort of like triangulation . Then the unique properties of those waves could be compared to pull out features and vectors and identify the location of the brain and the do a remote eeg this way . 
+
+Signals from your brain will arrive at a different time stamp than a person 1 meter away . Signals from 1 inch of your brain will arrive faster (the signals of your brain arrive in a cluster separated by time - even if they are a centimeter apart ) to the detector - someone a meter away signals will arrive at a diffent speed to the detector and the signals from 1 cm away (different regions of the brain - will arrive to the detector in a cluster with diffent times compared to another person - allowing them to be differentiated even if they have same characteristics— 
+
+The system (the linked satellites) can compare signal arrival times and match up signals with the same amplitude and frequency but different times (since the satellites are a known distance apart ) to find which signals match a region of the brain . The system can do cluster analysis because the signals from 1cm over from the landmark signal (or 1cm over from another part of your brain ) will arrive to the satellite at a slightly different time then the signal adjacent (the signal will arrive to each satalite at a different time - but since they have the same features such as amplitude and frequency (and maybe power ) and since the satellites are a known distance apart then they can be matched as the signal from one point (ie from one region of the brain ) . Cluster analysis allows for adjacent signals to be differentiated from the same brain and from other people nearby . 
+
+The clock on the signal analysis must be very many decimal places to the left (very close to 0 ) so it can tell very small times apart . 
+
+The signals can be analyzed and categorized and ran through math algorithms to show which part of the brain the electric field is from and then a  basically a quasi remote eeg can be done . Which then can allow date to be reconstructed about the brain in real bear time . Also the system allows for the precise coordinate tracking of the person without an active radar applied . 
